@@ -1,4 +1,4 @@
-# validador-de-cart-o-de-credito
+# validador-de-cartão-de-credito
 Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
 # Projeto: Identificação de Bandeira de Cartão
 
